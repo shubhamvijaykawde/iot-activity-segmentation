@@ -109,7 +109,7 @@ pip install -r requirements.txt
 python src/RunPipeline.py
 ```
 
-Outputs will be saved in:
+Outputs will be saved in, new folder:
 
 ```
 segmentation_output/
@@ -120,7 +120,7 @@ segmentation_output/
 Run the notebook:
 
 ```
-notebooks/Complete_Final_Segmentation.ipynb
+Complete_Final_Segmentation.ipynb
 ```
 
 The notebook allows:
