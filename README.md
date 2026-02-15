@@ -48,8 +48,8 @@ iot-activity-segmentation/
 ├── data/
 │   └── README.md
 │
-├── segmentation_output/
-│   └── .gitkeep
+├
+│   
 │
 ├── requirements.txt
 ├── README.md
