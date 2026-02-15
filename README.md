@@ -42,8 +42,8 @@ iot-activity-segmentation/
 │   ├── CBRExporter.py
 │   └── RunPipeline.py
 │
-├── notebooks/
-│   └── Complete_Final_Segmentation.ipynb
+├── Complete_Final_Segmentation.ipynb
+│   
 │
 ├── data/
 │   └── README.md
