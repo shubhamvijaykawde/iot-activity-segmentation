@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# dataset (prevent large upload)
+data/*
+!data/README.md
+
+# Notebook
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+segmentation_output/
+*.csv
+*.log
